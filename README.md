@@ -364,7 +364,7 @@
 |81|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)| |Medium|
 |80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)| |Medium|
 |79|[Word Search](https://leetcode.com/problems/word-search/)| |Medium|
-|78|[Subsets](https://leetcode.com/problems/subsets/)| [js](./algorithms/subsets/Solution.js) |Medium|
+|78|[Subsets](https://leetcode.com/problems/subsets/)| [js](./algorithms/subsets/Solution.js) [java](./algorithms/subsets/Solution.java) |Medium|
 |77|[Combinations](https://leetcode.com/problems/combinations/)| |Medium|
 |76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)| |Hard|
 |75|[Sort Colors](https://leetcode.com/problems/sort-colors/)| |Medium|
